@@ -1,7 +1,6 @@
 # AngelNet v6.4 — CogniCore Release  
 **Fractal-based Cognitive Architecture with Tensor Cascade and Adaptive Memory**
 
----
 
 **Author:** Bohdan Fedorenko  
 **Contact:** contact@angel-net.tech  
@@ -10,15 +9,12 @@
 **Language:** Python 3.10  
 **Protection:** Some files are auto-compiled to `.cpython-310` for obfuscation and IP protection
 
----
-
 ### Description
 
 AngelNet v6.4 introduces a **nonlinear cognitive field model** based on **fractal decision logic**, **adaptive tensor fields**, and a **cascading memory layer**.  
 
 This system replaces traditional linear input-output paradigms with a **topological field of intention**, forming "curvature memory", clustering feedback, and visualizing internal emotional-like states.
 
----
 
 ### Key Features
 
@@ -27,8 +23,6 @@ This system replaces traditional linear input-output paradigms with a **topologi
 - **Cluster Memory** — categorization of input reactions (LE/HF/OC).
 - **CogniCore Interpreter** — internal affective engine that assesses internal mood.
 - **3D Curvature Visualization** — curvature evolution and topology surface mapping.
-
----
 
 ### Architecture Overview
 
@@ -48,7 +42,6 @@ This system replaces traditional linear input-output paradigms with a **topologi
 | `main_cognicore_test.py` | Demo runner for CogniCore logic with full tracing |
 | `tensor_cascade_curvature_3D.png` | Sample 3D plot of curvature history |
 
----
 
 ### How to Run
 
@@ -68,7 +61,6 @@ What You Will See
 	•	Live 3D surface maps of field deformation
 	•	Cluster activity tracking (LE, HF, OC)
 
-⸻
 
 Licensing and Protection
 
@@ -88,6 +80,5 @@ AngelNet v6.4 marks the emergence of:
 
 Next: v7.0 — Adaptive Cascade + Proto-Semantic Layer
 
-⸻
 
 Join the mission, don’t steal the vision.
