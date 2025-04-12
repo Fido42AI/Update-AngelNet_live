@@ -1,0 +1,93 @@
+# AngelNet v6.4 — CogniCore Release  
+**Fractal-based Cognitive Architecture with Tensor Cascade and Adaptive Memory**
+
+---
+
+**Author:** Bohdan Fedorenko  
+**Contact:** contact@angel-net.tech  
+**Release Date:** April 2025  
+**License:** [FractalBit42 Custom License](./LICENSE)  
+**Language:** Python 3.10  
+**Protection:** Some files are auto-compiled to `.cpython-310` for obfuscation and IP protection
+
+---
+
+### Description
+
+AngelNet v6.4 introduces a **nonlinear cognitive field model** based on **fractal decision logic**, **adaptive tensor fields**, and a **cascading memory layer**.  
+
+This system replaces traditional linear input-output paradigms with a **topological field of intention**, forming "curvature memory", clustering feedback, and visualizing internal emotional-like states.
+
+---
+
+### Key Features
+
+- **Fractal Neural Fiber Layers** — sublayered processing via self-similar transformations.
+- **Tensor Cascade** — multi-layer curvature adaptation with memory-based inertia.
+- **Cluster Memory** — categorization of input reactions (LE/HF/OC).
+- **CogniCore Interpreter** — internal affective engine that assesses internal mood.
+- **3D Curvature Visualization** — curvature evolution and topology surface mapping.
+
+---
+
+### Architecture Overview
+
+| File | Description |
+|------|-------------|
+| `angelnet_fiber_core.py` | Main architecture composer (Fiber + Cascade + CogniCore) |
+| `tensor_cascade_layer.py` | Cascade of TensorField layers with feedback & memory |
+| `tensor_field_layer_v3.py` | Adaptive tensor fields (curvature + rotation + energy) |
+| `tensor_field_visualizer.py` | 2D/3D visualizations of curvature, clusters |
+| `cascade_visualizer.py` | Full 3D map of cascade field evolution |
+| `cognicore.py` | Emotion-inspired state analyzer for context reflection |
+| `cognicore_interpreter.py` | Converts curvature feedback into affective states |
+| `cognicore_state.py` | Stores mood history, cognitive responses |
+| `neural_fiber_layer.py` | Fiber-style layered processing (Tanh + Sigmoid) |
+| `neural_tensor.py` | Helper tensor utilities |
+| `metric_tensor.py` | Metric field simulator with curvature tensor `gᵢⱼ` |
+| `main_cognicore_test.py` | Demo runner for CogniCore logic with full tracing |
+| `tensor_cascade_curvature_3D.png` | Sample 3D plot of curvature history |
+
+---
+
+### How to Run
+
+1. **Install Python 3.10**
+2. **Clone repository:**
+   ```bash
+   git clone https://github.com/Fido42AI/AngelNet_live.git
+   cd AngelNet_live
+3.Install requirements
+pip install -r requirements.txt
+4. Run demo:
+python main_cognicore_test.py
+What You Will See
+	•	Step-by-step fractal signal flow
+	•	Curvature feedback loops evolving over time
+	•	CogniCore states: neutral, curious, depressed, etc.
+	•	Live 3D surface maps of field deformation
+	•	Cluster activity tracking (LE, HF, OC)
+
+⸻
+
+Licensing and Protection
+
+This system is protected under the FractalBit42 Custom License.
+You are not allowed to reuse, republish, or reverse-engineer the architecture for commercial purposes.
+To learn more or request collaboration:
+View license or contact Contact@angel-net.tech
+
+⸻
+
+Outcome
+
+AngelNet v6.4 marks the emergence of:
+	•	Topology-driven cognition
+	•	Emotion-like curvature memory
+	•	Fractal consciousness surface
+
+Next: v7.0 — Adaptive Cascade + Proto-Semantic Layer
+
+⸻
+
+Join the mission, don’t steal the vision.
